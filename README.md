@@ -4,11 +4,13 @@
 
 **Результат**: обработаны данные при помощи Power Query (созданы условные столбцы, обработано разделение по столбцам), созданы дополнительные вычисляемые столбцы и меры через DAX 
 
-**Отчет** [hh.ru](https://github.com/AOKonovalov/BI--hh.ru/blob/main/hh.pdf)
-
 **Стек**: Power BI, Power Query
 
+**Отчет:**
 
+![image](https://github.com/user-attachments/assets/2c77f899-23c4-497f-975e-d5b24249ce34)
+
+![image](https://github.com/user-attachments/assets/5c0d3f9c-5882-42ee-85e5-20543003a42e)
 
 
 
