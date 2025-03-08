@@ -6,7 +6,7 @@
 
 **Стек**: Power BI, Power Query
 
-
+![[https://github.com/AOKonovalov/BI--hh.ru/blob/main/hh.pdf]]
 
 
 
